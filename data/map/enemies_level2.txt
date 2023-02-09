@@ -1,0 +1,5 @@
+2
+0 data/enemies/skeleton.obj data/enemies/skeleton.png data/enemies/skeleton.mesh
+5 55,2,2 0 28,2,21 0 8,2,18 0 31,5,30 0 56,0,29 0
+1 data/enemies/cannon.obj data/enemies/cannon.png
+3 24,0,1 90 32,0,12 270 19,4,25 90

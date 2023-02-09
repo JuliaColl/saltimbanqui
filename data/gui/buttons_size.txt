@@ -1,0 +1,10 @@
+long buttons:
+- starts (0,0), (0,0.25), (0,0.5), (0,0.75)
+- width: 0.5
+- height: 0.25
+
+small buttons:
+- starts (0.5,0), (0.5,0.25), (0.75, 0), (0.75, 0.25) 
+- width: 0.125
+- height: 0.25
+

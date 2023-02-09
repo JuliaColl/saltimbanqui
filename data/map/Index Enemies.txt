@@ -1,0 +1,9 @@
+# number of enemy types
+
+for each enemy type:
+# type + path mesh + path texture
+# number of that enemy type + (for each enemy: position + rotation)
+
+types of enemy:
+0 -> wolf
+1 -> cannon

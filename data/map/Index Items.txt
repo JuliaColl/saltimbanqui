@@ -1,0 +1,14 @@
+# itemType + postion + rotation
+
+types:
+1 -> fence
+2 -> coin
+3 -> heart
+4 -> arrow right
+5 -> arrow left
+6 -> arrow up
+7 -> bouncer
+8 -> spikes
+9 -> tree
+10 -> flag
+11 -> house

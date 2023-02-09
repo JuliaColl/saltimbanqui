@@ -1,0 +1,6 @@
+data/levels/tutorial_level.txt
+1 1 1
+3 9
+data/map/map_tutorial.map
+data/map/items_tutorial.txt
+data/map/enemies_tutorial.txt

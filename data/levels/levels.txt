@@ -1,0 +1,19 @@
+3
+
+1 1 1
+1 1
+data/map/map_level1.map
+data/map/items_level1.txt
+data/map/enemies_level1.txt
+
+1 1 1
+4 4
+data/map/map_level2.map
+data/map/items_level2.txt
+data/map/enemies_level2.txt
+
+1 1 1
+1 1
+data/map/map_level3.map
+data/map/items_level3.txt
+data/map/enemies_level3.txt
