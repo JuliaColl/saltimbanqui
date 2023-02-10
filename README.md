@@ -1,4 +1,4 @@
-# saltimbanqui
+# Saltimbanqui
  
 Saltimbanqui is a 3D game developed by Júlia Coll and Veronica Bruno for the TJE course at Universitat Pompeu Fabra. 
  
@@ -6,6 +6,9 @@ The game is based in different levels. The goal of each level is to collect all 
 
 In the following link there is a video demo of the game:
 https://youtu.be/sBo6iRdxABA
+ 
+# How to play? #
+Just download the complete respository and execute the game.exe element. Once the game is executed, you will find an interactive tutorial to learn the controls of the game.
  
 # TJE Framework #
 
@@ -22,20 +25,5 @@ It contains the basics to do something nice:
 
 Enough to make gamejam games pretty easily.
 
-
-## Installation ##
-
-It comes with a Visual Studio solution, but the code should compile in any platform that supports SDL.
-
-
-## Compiling in Linux
-
-Remember to install the libraries:
-
-sudo apt-get install libsdl2-dev freeglut3 freeglut3-dev
-
-and then just use the makefile:
-
-make
 
 
